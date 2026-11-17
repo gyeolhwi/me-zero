@@ -1,4 +1,4 @@
-# me-ai
+# me-zero
 
 <!-- repo-init:rules:start -->
 ## 작업 방식
